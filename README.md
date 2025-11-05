@@ -1,24 +1,20 @@
 A simple and interactive web app built using HTML,CSS, and JavaScript to track expenses
-🚀 Features
+Features
 - Add and delete income or expense entries
 - Automatically updates total balance
 - Uses *localStorage* to save data
 - Clean and responsive UI
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 - HTML  
 - CSS  
 - JavaScript  
 
-## 🎯 Learning Outcome
+🎯 Learning Outcome
 This project helped me understand how to:
 - Work with DOM manipulation and events  
 - Manage data using localStorage  
 - Build responsive layouts  
 
-## 📸 Preview
-(Add a screenshot here if you have one)
 
-## 🧠 Author
-*Sanjana*  
-Made this project to practice and understand how JavaScript works.
+
